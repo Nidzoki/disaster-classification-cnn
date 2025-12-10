@@ -209,3 +209,5 @@ __marimo__/
 # Disaster dataset
 *.zip
 disaster_dataset
+*.h5
+*.keras
